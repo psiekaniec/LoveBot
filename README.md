@@ -24,6 +24,7 @@ python client_side.py
 - [Tensorflow](https://www.tensorflow.org)
 - [Keras](https://keras.io)
 - [Numpy](https://numpy.org)
+- [Natural Language Toolkit](http://www.nltk.org)
 
 
 ## Podsumowanie
