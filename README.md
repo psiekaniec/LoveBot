@@ -20,10 +20,12 @@ python client_side.py
 ```
 ## Build With
 
-- [Python] - https://www.python.org
-- [Tensorflow] - https://www.tensorflow.org
-- [Keras] - https://keras.io
-- [Numpy] - https://numpy.org
+- [Python](https://www.google.com)
+- [Tensorflow](https://www.tensorflow.org)
+- [Keras](https://keras.io)
+- [Numpy](https://numpy.org)
+
 
 ## Podsumowanie
-Cały projekt jest efektem współpracy 2 osób w ramach hackathonu #hack4lem organizowanego przez Microsoft, PKO BP i Instytut Polska Przyszłości (opis na: https://challengerocket.com/hack4lem/works/lovebot-02450e#go-pagecontent).
+Cały projekt jest efektem współpracy 2 osób w ramach hackathonu #hack4lem organizowanego przez Microsoft, PKO BP i Instytut Polska Przyszłości.
+Szerszy opis na: https://challengerocket.com/hack4lem/works/lovebot-02450e#go-pagecontent
