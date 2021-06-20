@@ -1,0 +1,40 @@
+{"intents": [
+        {"tag": "complex_bad_phrases_girl",
+         "patterns": ["płaska jak deska", "nie masz koleżanek"],
+         "responses": ["Nie przejmuj się opinią innych, bo z pewnością masz koleżanki, które cię lubią", "HEJT! Ostrzeżenie o mowie nienawiści", "Jesteś spoko", "jesteś ładna", "lubię cię","masz fajne żarty", "nikt nie może cię tak traktować"
+		 , "masz poczucie humoru", "jesteś mądra", "jesteś atrakcyjna", "jesteś odpowiedzialna"]
+        },
+        {"tag": "complex_bad_phrases_boy",
+         "patterns": ["jak bezdomny", "masz małego", "nie masz kolegów"],
+         "responses": ["Nie przejmuj się opinią innych, bo z pewnością masz kolegów, którzy cię lubią", "HEJT! Ostrzeżenie o mowie nienawiści", "Jesteś spoko", "lubię cię","masz fajne żarty", "nikt nie może cię tak traktować", "masz poczucie humoru"
+		 , "jesteś mądry", "jesteś atrakcyjny", "jesteś odpowiedzialny"]
+        },
+        {"tag": "complex_bad_phrases_common",
+         "patterns": [
+		 "tłuste włosy","paskudny ryj", "pryszczate ryło", "ciuchy z Caritasu", "krzywe nogi","wybiję ci zęby",
+		 "rozwalę ci łeb","zamknij mordę","stul japę","wyglądasz okropnie","jesteś ze wpadki","starzy zrobili cię przez pomyłkę","nikt cię nie lubi","nikt cię nie kocha",
+		 "chuj ci w dupę", "ssij pałę", "idź się zabij", "idź się powieś", "idź się pociąć", "idź w chuj", "jesteś adoptowany", "nawet matka ma cię dość", "nikogo nie obchodzisz",
+		 "dostaniesz za swoje", "dorwiemy cię"],
+         "responses": ["Szukaj wsparcia (np. kolegów) - nie pozwól, żeby użyte słowa obrażały cię", "HEJT! Ostrzeżenie o mowie nienawiści", "Jesteś spoko", "lubię cię","masz fajne żarty", "nikt nie może cię tak traktować", "masz poczucie humoru"]
+        },
+        {"tag": "individual_bad_word_girl",
+         "patterns": ["cichodajka", "czarownica", "dziwka",  "jędza", "kurwiszcze", "kurwiszon", "lafirynda", "lesba", "puszczalska", "suka", "szmata", "wiedźma",  "wywłoka", "zdzira", 
+		 "maszkara", "pokraka"],
+         "responses": ["Jesteś ważna - unikaj ludzi, którzy piszą takie przekleństwa.", "HEJT! Ostrzeżenie o mowie nienawiści", "Jesteś spoko", "jesteś ładna", "lubię cię","masz fajne żarty", "nikt nie może cię tak traktować", "masz poczucie humoru"
+		 , "jesteś mądra", "jesteś atrakcyjna", "jesteś odpowiedzialna"]
+        },
+        {"tag": "individual_bad_word_boy",
+         "patterns": ["bałwan", "bezmózgowiec", "bęcwał", "biedak", "brudas", "chuj", "ciołek", "cymbał", "czub", "debil", "dupek", "flejtuch", "gej", 
+		 "głąb", "głupiec", "głupol", "grubas" , "grubasek", "idiota", "imbecyl", "kołek", "kretyn", "lump", "matoł", 
+		 "menel", "niechluj", "niedojda", "nieudacznik", "pajac", "palant", "patafian", "patałach", "pedał", "pederasta", "pedzio", "pierdolnięty", "pinda", "platfus",
+		 "spaślak", "tępak", "trep", "wariat", "wszarz","zjeb", "żul", "skurwysyn", "bękart", "brzydal", "ślepy", "głuchy", "śmierdziel"],
+         "responses": ["Jesteś ważny - unikaj ludzi, którzy piszą takie przekleństwa.", "HEJT! Ostrzeżenie o mowie nienawiści", "Jesteś spoko", "lubię cię","masz fajne żarty", "nikt nie może cię tak traktować", "masz poczucie humoru"
+		 , "jesteś mądry", "jesteś atrakcyjny", "jesteś odpowiedzialny"]
+        },
+        {"tag": "individual_bad_word_common",
+         "patterns": ["baryła", "buła", "ciamajda", "ciota", "fajtłapa", "fleja", "kluska", "kurwa", "lebiega", "lebioda", "łamaga", "niedołęga" ,"niedorajda", "niemota", "niezdara", "oferma",
+		 "ofiara", "parszywiec", "pasożyt", "popapraniec", "prosię", "pulpet", "tłuścioch", "wieprz", "wstręciuch"],
+         "responses": ["Nie martw się - unikaj ludzi, którzy piszą takie przekleństwa.", "HEJT! Ostrzeżenie o mowie nienawiści", "Jesteś spoko", "lubię cię","masz fajne żarty", "nikt nie może cię tak traktować", "masz poczucie humoru"]
+        }
+   ]
+}
