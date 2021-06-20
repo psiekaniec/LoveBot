@@ -4,9 +4,9 @@ LoveBot to cichy bohater social media - czynnie staje po stronie hejtowanego dzi
 ## Uruchomienie projektu
 
 W celu uruchomienia projektu należy sklonować go na własny kompuer. Następnie zainstalować wymagane biblioteki następującą komendą:
-
+```sh
 pip3 freeze > requirements.txt 
-
+```
 Kolejnym krokiem jest uruchomienie pliku server_side.py. Następnie należy uruchomić plik client_side.py i podać login.
 
 Aplikację serwera należy uruchomić komendą:
