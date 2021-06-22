@@ -25,8 +25,3 @@ python client_side.py
 - [Keras](https://keras.io)
 - [Numpy](https://numpy.org)
 - [Natural Language Toolkit](http://www.nltk.org)
-
-
-## Podsumowanie
-Cały projekt jest efektem współpracy 2 osób w ramach hackathonu #hack4lem organizowanego przez Microsoft, PKO BP i Instytut Polska Przyszłości.
-Szerszy opis na: https://challengerocket.com/hack4lem/works/lovebot-02450e#go-pagecontent
